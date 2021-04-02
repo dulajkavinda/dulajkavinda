@@ -6,3 +6,5 @@
 - 📫 How to reach me: hello@dulajkavinda.me
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulajkavinda&" alt="dulajkavinda" /></p>
+
+![](https://komarev.com/ghpvc/?username=dulajkavinda)
