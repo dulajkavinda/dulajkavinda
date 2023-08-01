@@ -1,4 +1,6 @@
-<img src="https://d3w2fcjgwwg2qu.cloudfront.net/git-banner.webp"/>
+<a href="https://www.dulaj.dev" target="_blank">
+  <img src="https://d3w2fcjgwwg2qu.cloudfront.net/git-banner.webp"/>
+</a>
 
 ### Hey there, I'm **Dulaj** :wave:
 
