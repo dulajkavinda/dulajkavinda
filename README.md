@@ -1,3 +1,5 @@
+<img src="https://d3w2fcjgwwg2qu.cloudfront.net/git-banner.webp"/>
+
 ### Hey there, I'm **Dulaj** :wave:
 
 I'm a design-loving full-stack engineer with over **4 years of professional experience** in the industry and during my free time, I like to build stuff.
