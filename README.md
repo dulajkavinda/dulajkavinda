@@ -15,6 +15,7 @@ I'm a design-loving full-stack engineer with over **4 years of professional expe
 - [🗣 MinimalFeedback](https://github.com/dulajkavinda/minimal-feedback/), a blazingly fast and highly customizable component to get user feedback.
 - [🎨 Pictionary](https://pictionary.dulaj.dev/), an online multiplayer pictionary drawing game.
 - [✨ Gradientify](https://github.com/dulajkavinda/gradientify/), a simple and easy to use image to css gradient converter.
+- [🎯 CommandK](https://github.com/dulajkavinda/commandK), a compact React component enabling quick website search through a modal.
 > You can checkout my portfolio for more › [dulaj.dev](https://dulaj.dev/).
 
 
