@@ -7,10 +7,10 @@
 I'm a design-loving full-stack engineer with over **4 years of professional experience** in the industry and during my free time, I like to build stuff.
 
 ##### PRODUCTS
-- [🕹 Oombi](https://oombi.io/), an online **multiplayer** strategic card game (over **~30K** monthy players).
+- [🕹 Oombi](https://oombi.io/), an online **multiplayer** strategic card game (over **~30K** monthly players).
+- [🗞 Sided](https://sided.news/), aggregates news from multiple media outlets in to a single place (over **~25K** monthly users).
 - [🦄 FolioUI](https://github.com/dulajkavinda/folio-ui/), an open-source **UI library** for building portfolios.
 - [🚀 Openexam](https://openexam.live/), efficiently search study materials during openbook exams (over **4K** students signed up).
-- [🗞 Sided](https://sided.news/), aggregates news from multiple media outlets in to a single place (over **~20K** monthly users).
 - [🐞 Simlarillions](https://silmarillions.com/), a web-based app to help readers to navigate the book Silmarillions by J.R.R Tolkien.
 - [🗣 MinimalFeedback](https://github.com/dulajkavinda/minimal-feedback/), a blazingly fast and highly customizable component to get user feedback.
 - [🎨 Pictionary](https://pictionary.dulaj.dev/), an online multiplayer pictionary drawing game.
